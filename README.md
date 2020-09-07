@@ -1,4 +1,4 @@
-### Hi there 👋 I am Kester
+### Hi there 👋 I am Kester <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🔭 I’m currently working on React-native, Frontend-web, swift, Design UI/UX.
 - 🌱 I’m currently learning Flutter/Firebase.
