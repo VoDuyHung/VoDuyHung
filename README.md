@@ -7,6 +7,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Design.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=VoDuyHung&hide=contribs,prs&show_icons=true)](https://github.com/VoDuyHung/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=VoDuyHung&hide=contribs,prs&show_icons=true](https://github.com/VoDuyHung/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VoDuyHung&layout=compact)](https://github.com/VoDuyHung/github-readme-stats)
